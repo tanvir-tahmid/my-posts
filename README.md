@@ -1,6 +1,9 @@
-# MyMessages
+# MyPosts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
+MyPosts is a Full Stack Web App to view, share, update and delete posts. Posts contain images, titles and content
+
+View Demo: https://young-citadel-59861.herokuapp.com/
+
 
 ## Development server
 
